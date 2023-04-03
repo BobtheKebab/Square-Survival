@@ -1,0 +1,24 @@
+:root {
+    --main-color: orchid;
+}
+
+canvas {
+    border: var(--main-color) 1px solid;
+}
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+    align-items: center;
+}
+
+.resource-bar {
+    height: 50px;
+    width: 600px;
+    background-color: var(--main-color);
+}
+
+.instructions {
+    text-align: center;
+}

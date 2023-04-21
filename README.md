@@ -13,7 +13,7 @@
 
 ## Usage
 
-After cloning the repository, simply open "myGame.html" with a browser
+After cloning the repository, simply open "myGame.html" with a browser  
 Or you could just click the link above
 
 ## Credits

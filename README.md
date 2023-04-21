@@ -3,6 +3,8 @@
 - A browser game with a simple premise: **Don't touch the other squares**
 - I loved browser games as a kid, so I wanted to try making my own
 
+[Play it here](https://bobthekebab.gitlab.io/Square-Survival/myGame.html)
+
 ## Technologies Used
 
 - HTML
@@ -12,6 +14,7 @@
 ## Usage
 
 After cloning the repository, simply open "myGame.html" with a browser
+Or you could just click the link above
 
 ## Credits
 
